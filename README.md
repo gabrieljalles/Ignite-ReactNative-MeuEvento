@@ -1,9 +1,9 @@
-# MeuEvento :musical_keyboard:
+# MeuEvento :family:
 
 * Adiciona a pessoa a lista
 * Apaga a pessoa
 * Veja o GIF abaixo.
 ===============
 <p align="center">
-  <img width="460" height="300" src="assets/view.gif">
+  <img width="300" height="460" src="assets/view.gif">
 </p>
