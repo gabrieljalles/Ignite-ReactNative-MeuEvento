@@ -5,5 +5,5 @@
 * Veja o GIF abaixo.
 ===============
 <p align="center">
-  <img width="300" height="460" src="assets/view.gif">
+  <img width="600" height="337" src="assets/view.gif">
 </p>
