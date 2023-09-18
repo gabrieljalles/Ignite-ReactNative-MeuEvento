@@ -4,6 +4,7 @@ import { Participant } from "../../components/Participant";
 import { useState } from "react";
 
 export default function Home(){
+    
     const [participants, setParticipants] = useState<string[]>([]);
     const [inputName, setInputName] = useState('');
 
